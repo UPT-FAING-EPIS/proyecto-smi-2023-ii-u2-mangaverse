@@ -1,2 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/y1LgyCES)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12959453&assignment_repo_type=AssignmentRepo)
+# MangaVerse
+## Integrantes:
+- Josue Villanueva Yucra
+- Arnold Cutipa Machaca
+- Rodrigo Lira Alvarez
+- Rodrigo De la Cruz Choque
+- JuanJose Perez Vizcarra
+## Herramientas
+- VisualCode
+## Tecnologia
+- Maui
+## Arquitectura
+- MVVM
+## Prototipo
+https://mockitt.wondershare.com/proto/4vqPBAlOs19t82EQNwW6uv/sharing?view_mode=device&screen=rbpTqNJqlQ3FY6ydE&canvasId=rcTqNJqlRgMEzFAl
