@@ -2077,6 +2077,13 @@ c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\resizeti
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\resizetizer\r\drawable\man.jpg
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\resizetizer\r\drawable\one.jpg
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\resizetizer\r\drawable\fondoprofile.jpg
+c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\Firebase.Auth.dll
+c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\Firebase.dll
+c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\Firebase.Storage.dll
+c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\LiteDB.dll
+c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\Newtonsoft.Json.dll
+c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\System.Reactive.dll
+c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\System.ServiceModel.dll
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\mscorlib.dll
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
@@ -2090,12 +2097,3 @@ c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\System.Xml.dll
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.dll
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.pdb
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\SQLite-net.dll
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.batteries_v2.dll
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.core.dll
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.nativelibrary.dll
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.provider.dynamic_cdecl.dll
-c:\proyecto-smi-2023-ii-u1-mauiteam\MangaVerse\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll

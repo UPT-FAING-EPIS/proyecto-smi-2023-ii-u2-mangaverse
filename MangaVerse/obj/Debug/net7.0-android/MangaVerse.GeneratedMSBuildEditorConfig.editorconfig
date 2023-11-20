@@ -26,6 +26,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = MangaVerse.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[c:/proyecto-smi-2023-ii-u2-mangaverse/MangaVerse/MangaVerse/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MangaVerse.MangaVerse.App.xaml
+build_metadata.AdditionalFiles.TargetPath = MangaVerse\App.xaml
+build_metadata.AdditionalFiles.RelativePath = MangaVerse\App.xaml
+
+[c:/proyecto-smi-2023-ii-u2-mangaverse/MangaVerse/MangaVerse/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MangaVerse.MangaVerse.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = MangaVerse\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = MangaVerse\AppShell.xaml
+
 [c:/proyecto-smi-2023-ii-u2-mangaverse/MangaVerse/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MangaVerse.Resources.Styles.Colors.xaml

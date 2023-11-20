@@ -9,6 +9,7 @@
 
         <Frame BorderColor="#87468b" CornerRadius="3" Padding="5" Margin="0,0,0,10" BackgroundColor="#191919">
         <Entry 
+            x:Name="usernameEntry"
             Placeholder="Username" 
             Text="{Binding Name}"
             TextColor="White" />
@@ -16,6 +17,7 @@
 
         <Frame BorderColor="#87468b" CornerRadius="3" Padding="5" Margin="0,0,0,10" BackgroundColor="#191919">
         <Entry 
+            x:Name="emailEntry"
             Placeholder="Email" 
             Text="{Binding Email}"
             TextColor="White" />
@@ -23,6 +25,7 @@
 
         <Frame BorderColor="#87468b" CornerRadius="3" Padding="5" Margin="0,0,0,10" BackgroundColor="#191919">
         <Entry 
+            x:Name="passwordEntry"
             Placeholder="Contraseña" 
             Text="{Binding Password}" 
             IsPassword="True"
@@ -33,7 +36,7 @@
             Command="{Binding RegisterCommand}" 
             BackgroundColor="#a3c12b" 
             TextColor="White"
-            Clicked="OnLoginClicked" />
+            Clicked="OnRegisterClicked" />
             
         </StackLayout>
     </ContentPage.Content>

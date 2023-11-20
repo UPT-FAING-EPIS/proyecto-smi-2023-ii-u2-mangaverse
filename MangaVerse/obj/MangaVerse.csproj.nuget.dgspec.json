@@ -61,9 +61,21 @@
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
           "dependencies": {
-            "CommunityToolkit.Mvvm": {
+            "Firebase.Auth": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -94,9 +106,9 @@
               "version": "[7.0.92, )",
               "autoReferenced": true
             },
-            "SQLitePCLRaw.provider.dynamic_cdecl": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[2.1.1, )"
+              "version": "[13.0.3, )"
             },
             "Xamarin.Android.Glide": {
               "target": "Package",
@@ -152,10 +164,6 @@
               "target": "Package",
               "version": "[1.7.0.1, )",
               "autoReferenced": true
-            },
-            "sqlite-net-pcl": {
-              "target": "Package",
-              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -191,9 +199,21 @@
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "dependencies": {
-            "CommunityToolkit.Mvvm": {
+            "Firebase.Auth": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -224,13 +244,9 @@
               "version": "[7.0.92, )",
               "autoReferenced": true
             },
-            "SQLitePCLRaw.provider.dynamic_cdecl": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[2.1.1, )"
-            },
-            "sqlite-net-pcl": {
-              "target": "Package",
-              "version": "[1.8.116, )"
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -266,9 +282,21 @@
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "dependencies": {
-            "CommunityToolkit.Mvvm": {
+            "Firebase.Auth": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -299,13 +327,9 @@
               "version": "[7.0.92, )",
               "autoReferenced": true
             },
-            "SQLitePCLRaw.provider.dynamic_cdecl": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[2.1.1, )"
-            },
-            "sqlite-net-pcl": {
-              "target": "Package",
-              "version": "[1.8.116, )"
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -342,9 +366,21 @@
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
           "dependencies": {
-            "CommunityToolkit.Mvvm": {
+            "Firebase.Auth": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[1.0.0, )"
+            },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -385,13 +421,9 @@
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
             },
-            "SQLitePCLRaw.provider.dynamic_cdecl": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[2.1.1, )"
-            },
-            "sqlite-net-pcl": {
-              "target": "Package",
-              "version": "[1.8.116, )"
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

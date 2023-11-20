@@ -12,7 +12,7 @@
             <Frame Grid.Row="1" Margin="0,-90,0,0" BorderColor="White" HorizontalOptions="Center" WidthRequest="110" HasShadow="False" CornerRadius="155" Padding="0" IsClippedToBounds="True">
                 <Image Source="diasporaiser.jpg" Aspect="AspectFill"/>
             </Frame>   
-            <Label Grid.Row="2" Text="JohanOtaku69" FontAttributes="Bold" TextColor="#a10684" HorizontalTextAlignment="Center" Margin="0,20,0,0" FontSize="22"/>
+            <Label Grid.Row="2" Text="Josue" FontAttributes="Bold" TextColor="#a10684" HorizontalTextAlignment="Center" Margin="0,20,0,0" FontSize="22"/>
             <Label Grid.Row="6" Text="Favoritos" FontAttributes="Bold" TextColor="#a10684" HorizontalTextAlignment="Start" Margin="0,30,0,10" FontSize="20"/>
             <!-- Aquí comienza la CollectionView -->
             <CollectionView Grid.Row="7" HorizontalScrollBarVisibility="Never" ItemsSource="{Binding TopMangas}" Margin="0,0,-10,0" HeightRequest="140" ItemsLayout="HorizontalList">

@@ -23,7 +23,8 @@
                 <!-- Cuadro de entrada para el nombre de usuario -->
                 <Frame BorderColor="#87468b" CornerRadius="3" Padding="5" Margin="0,0,0,10" BackgroundColor="#191919">
                     <Entry 
-                        Placeholder="Username" 
+                        x:Name="emailEntry"
+                        Placeholder="email" 
                         Text="{Binding Username}" 
                         TextColor="White" />
                 </Frame>
@@ -32,6 +33,7 @@
                 <Frame BorderColor="#87468b" CornerRadius="3" Padding="5" Margin="0,0,0,10" BackgroundColor="#191919">
                     <Entry 
                         Placeholder="Password"  
+                        x:Name="passwordEntry"
                         Text="{Binding Password}" 
                         IsPassword="True" 
                         TextColor="White" />
