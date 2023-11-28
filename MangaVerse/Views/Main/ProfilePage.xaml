@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MangaVerse.Views.ProfilePage"
+             BackgroundColor="#191919"
+             Title="ProfilePage">
+    <ScrollView VerticalScrollBarVisibility="Never" HorizontalScrollBarVisibility="Never">
+        <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto" Padding="10,0">
+            <Frame Grid.Row="0" BorderColor="White" VerticalOptions="Start" HeightRequest="170" HasShadow="False" CornerRadius="10" Margin="0,10,0,5" Padding="0" IsClippedToBounds="True">
+                <Image Source="fondoprofile.jpg" Opacity="0.5" Aspect="AspectFill"/>
+            </Frame>
+            <Frame Grid.Row="1" Margin="0,-90,0,0" BorderColor="White" HorizontalOptions="Center" WidthRequest="110" HasShadow="False" CornerRadius="155" Padding="0" IsClippedToBounds="True">
+                <Image Source="diasporaiser.jpg" Aspect="AspectFill"/>
+            </Frame>   
+            <Label Grid.Row="2" Text="Josue" FontAttributes="Bold" TextColor="#a10684" HorizontalTextAlignment="Center" Margin="0,20,0,0" FontSize="22"/>
+            <Label Grid.Row="6" Text="Favoritos" FontAttributes="Bold" TextColor="#a10684" HorizontalTextAlignment="Start" Margin="0,30,0,10" FontSize="20"/>
+            <!-- Aquí comienza la CollectionView -->
+            <CollectionView Grid.Row="7" HorizontalScrollBarVisibility="Never" ItemsSource="{Binding TopMangas}" Margin="0,0,-10,0" HeightRequest="140" ItemsLayout="HorizontalList">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout WidthRequest="{OnPlatform iOS='135', Android='160'}" Padding="0,0,15,0">
+                            <Frame CornerRadius="13" HorizontalOptions="Start" BorderColor="#c6c1ea" HasShadow="False">
+                                <Grid RowDefinitions="*,Auto">
+                                    <Image Source="diasporaiser.jpg" HorizontalOptions="Center" HeightRequest="40" WidthRequest="40" />
+                                    <Label Grid.Row="1" HorizontalOptions="Center" Text="{Binding Title}" FontSize="11" TextColor="#c6c1ea"/>
+                                </Grid>
+                            </Frame>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <!-- Botón de salida -->
+            <Button Grid.Row="8" Text="Cerrar Sesion" Clicked="OnLogoutClicked" HorizontalOptions="Center" Margin="0,10" BackgroundColor="#a3c12b" />
+        </Grid>
+    </ScrollView> 
+</ContentPage>
